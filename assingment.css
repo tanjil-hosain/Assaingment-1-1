@@ -166,6 +166,43 @@ span{
 .text{
     text-align: center;
 }
+.back-ground{
+    width: 70%;
+    height: 280px;
+    margin: auto;
+    margin: 120px 180px ;
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    background-image: url('Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.back-ground-area{
+    text-align: center;
+}
+.back-ground-titel{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.email-holder{
+    display: flex;
+    width: 50%;
+    padding: 15px;
+    margin: auto;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
 .footer{
     width: 100%;
     height: 30vh;
